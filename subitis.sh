@@ -22,7 +22,7 @@ else
 fi
 #emergency shell code
 echo '*=================*'
-echo '       menu        '
+echo '       subitis        '
 echo '*=================*'
 echo '1.) Shred block device (slow)'
 echo '2.) Run oswitcher (experimental)'
